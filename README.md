@@ -34,6 +34,6 @@ As a professional at the beginning of my career, I am constantly looking for new
 
   <a href = "mailto:luisgit26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-  <a href="https://www.linkedin.com/in/luis-henrique-solana-plana-92a3aa322/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/luis-henrique-solana-plana-%F0%9F%93%8A%F0%9F%93%88-92a3aa322/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>

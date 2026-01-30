@@ -3,10 +3,15 @@
 - 🎯 Data science
    
 
-I am an early career professional, with experience in Power BI, Excel and SQL Server, and I am currently graduating in IT Management. Throughout my academic and professional career, I had the opportunity to develop technical skills in data analysis and support for IT processes, always seeking to learn and improve myself.                                                                                                                                                                                                                     I have experience in creating dashboards and analytical reports in Power BI, as well as managing and analyzing data using SQL Server. In Excel, I am able to use advanced functions to analyze and organize data efficiently.
-In addition, I have worked in IT support, where I was able to collaborate in solving technical problems and offering support to users, improving my communication and problem-solving skills in real time.
-As a professional at the beginning of my career, I am constantly looking for new challenges
+Olá, sou o Luis, tenho 21 anos e sou estudante do 5º semestre de Gestão da Tecnologia da Informação, com conclusão prevista para junho.
 
+Estou em desenvolvimento profissional para atuar como Service Desk / Helpdesk N1, com foco em atendimento ao usuário, resolução de incidentes, troubleshooting de hardware e software, e registro de chamados.
+
+Possuo conhecimentos em suporte de TI, fundamentos de redes, sistemas Windows e boas práticas de atendimento, sempre buscando soluções eficientes e comunicação clara com o usuário final.
+
+Paralelamente, sigo em constante aprendizado técnico, com interesse futuro em Qualidade de Software (QA) e análise de sistemas, visando crescimento e evolução contínua na área de tecnologia.
+
+Busco oportunidade como Service Desk N1 / Helpdesk / Suporte Técnico Júnior.
 
 
   

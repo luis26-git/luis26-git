@@ -9,9 +9,7 @@ As a professional at the beginning of my career, I am constantly looking for new
 
 
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luis26-git&show_icons=true&theme=dark" alt="Anurag's GitHub stats-Dark" width="" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luis26-git&layout=donut&theme=dark" alt="Top Langs" width="" />
-</p>
+  
 
 <div style="display: inline_block"><br>
 
